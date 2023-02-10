@@ -1,5 +1,5 @@
-# Online Quiz
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+# SirIke Exams Class
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Isaac%20Oheneba%20Twumasi-blue)
 ---
 ## screenshots
 ### Homepage
