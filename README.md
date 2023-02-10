@@ -1,7 +1,6 @@
 # SirIke Exams Class
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Isaac%20Oheneba%20Twumasi-blue)
 ---
-## screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
