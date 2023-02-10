@@ -2,7 +2,7 @@
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Isaac%20Oheneba%20Twumasi-blue)
 ---
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/SirIke-ExamsGh/examsghclass/blob/master/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/onlinequiz/blob/master/static/screenshots/adminhomepage.png?raw=true)
 ### Exam Rules
